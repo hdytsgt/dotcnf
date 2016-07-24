@@ -1,0 +1,24 @@
+{
+  "name": "dotcnf",
+  "version": "1.0.0",
+  "description": "Deadly simple environment variables",
+  "main": "src/index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hdytsgt/dotcnf.git"
+  },
+  "keywords": [
+    "Node"
+    "Environment Variables",
+    "dot conf",
+    "dot cnf",
+    "dot env",
+    "Global Variables"
+  ],
+  "author": "Hidayat Sagita",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hdytsgt/dotcnf/issues"
+  },
+  "homepage": "https://github.com/hdytsgt/dotcnf#readme"
+}
