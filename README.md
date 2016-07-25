@@ -6,7 +6,7 @@ Deadly simple environment variables for Node JS
 
 ## Installation
 
-`npm install dotcnf `
+`npm install --save dotcnf `
 
 
 
