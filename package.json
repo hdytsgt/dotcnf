@@ -1,6 +1,6 @@
 {
   "name": "dotcnf",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "Deadly simple environment variables",
   "main": "src/index.js",
   "repository": {
