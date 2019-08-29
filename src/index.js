@@ -27,7 +27,7 @@ module.exports = ( file ) => {
 			
 			let datum = data.match( /(.*)=(.*)/ );
 
-			if( datum[ 1 ] ) {
+			if( datum && datum[ 1 ] ) {
 				let key   = datum[ 1 ],
 				    value = datum[ 2 ] ? datum[ 2 ] : '';
 
